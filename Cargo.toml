@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: 2025 Jason Pena <jasonpena@awkless.com>
+# SPDX-License-Identifier: MIT
+
+[package]
+name = "oxidot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
