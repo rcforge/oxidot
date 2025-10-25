@@ -1,6 +1,6 @@
 <!--
 SPDX-FileCopyrightText: 2025 Jason Pena <jasonpena@awkless.com>
-SPDX-License-File: MIT
+SPDX-License-Identifier: MIT
 -->
 
 # oxidot
